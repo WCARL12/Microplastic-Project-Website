@@ -9,3 +9,5 @@
     <li>Chemicals used in plastics</li>
     <li>Other Microplastic Resource</li>
 </ul>
+
+<p>Click here to see: <a href='https://wcarl12.github.io/Odin-Project-Microplastics/'>Project: Microplastics</a></p>
